@@ -1,0 +1,13 @@
+{
+  "name": "fira-sans-bold",
+  "repo": "typefaces/fira-sans-bold",
+  "description": "The Fira Sans Bold typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": ["index.css"],
+  "fonts": [
+    "fonts/fira-sans-bold.eot",
+    "fonts/fira-sans-bold.ttf",
+    "fonts/fira-sans-bold.woff"
+  ]
+}
