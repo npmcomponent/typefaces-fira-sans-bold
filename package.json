@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-fira-sans-bold",
+  "description": "The Fira Sans Bold typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
